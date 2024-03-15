@@ -1,1 +1,1 @@
-This is a reset your practice git
+This is a repo used to practice git - A Version Control System
